@@ -1,4 +1,4 @@
-from app import app  # Assuming `app` is the Flask instance in your app.py file
+from beauty_salon_app import app  # Assuming `app` is the Flask instance in your app.py file
 
 if __name__ == "__main__":
     app.run()
